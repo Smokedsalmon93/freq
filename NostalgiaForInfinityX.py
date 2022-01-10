@@ -114,7 +114,7 @@ class NostalgiaForInfinityX(IStrategy):
         "0": 100.0,
     }
 
-    stoploss = -0.99
+    stoploss = -0.15
 
     # Trailing stoploss (not used)
     trailing_stop = False
